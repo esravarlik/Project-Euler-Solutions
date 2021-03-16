@@ -1,1 +1,1 @@
-# ProjectEuler8
+# ProjectEuler
